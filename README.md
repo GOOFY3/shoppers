@@ -14,4 +14,7 @@ Bootstrap 4
 Tether.io
 Javascript
 
+
+The API server runs on port 3004 and the React server runs on port 3000 which of course can be changed.
+
 ### Data for the items is updated by the API using Postman app. 
