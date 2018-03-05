@@ -1,15 +1,15 @@
-#Shoppers
+# Shoppers
 A simple model of online shopping websites which allows users to view items over the server and sort them into their wishlists.
 
-##frontend:
+## frontend:
 React
 
-##Backend:
+## Backend:
 Express
 Node js
 Mongo DB
 
-##Other:
+## Other:
 Bootstrap 4
 Tether.io
 Javascript
