@@ -6,7 +6,7 @@ React
 
 ## Backend:
 Express
-Node js
+Nodejs
 Mongo DB
 
 ## Other:
