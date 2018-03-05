@@ -14,4 +14,4 @@ Bootstrap 4
 Tether.io
 Javascript
 
-###Data for the items is updated by the API using Postman. 
+### Data for the items is updated by the API using Postman app. 
