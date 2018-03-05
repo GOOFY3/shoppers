@@ -5,16 +5,16 @@ A simple model of online shopping websites which allows users to view items over
 React
 
 ## Backend:
-# Express
-# Nodejs
-# MongoDB(Shell)
+##### Express
+##### Nodejs
+##### MongoDB(Shell)
 
 ## Other:
-# Bootstrap 4
-# Tether.io
-# Javascript
-# Jquery
-# css
+##### Bootstrap 4
+##### Tether.io
+##### Javascript
+##### Jquery
+##### css
 
 The API server runs on port 3004 and the React server runs on port 3000 which of course can be changed.
 
